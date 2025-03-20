@@ -1,4 +1,11 @@
-## Hi there 👋
+Hi My name is Pratim Roy
+Data Analyst
+I am currently learning Python
+
+🌍  I'm based in Kolkata, West Bengal
+✉️  You can contact me at pratimroy33@gmail.com
+🧠  I'm learning Project Deployments
+⚡  Keen Learner
 
 <!--
 **PratimRoy332/PratimRoy332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
