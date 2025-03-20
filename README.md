@@ -8,5 +8,5 @@ I am currently learning Python
 
 * 🌍  I'm based in Kolkata, West Bengal
 * ✉️  You can contact me at [pratimroy33@gmail.com](mailto:pratimroy33@gmail.com)
-* 🧠  I'm learning Project Deployments
+* 🧠  I'm learning Project Deployments in GCP
 * ⚡  Keen Learner
