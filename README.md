@@ -1,23 +1,12 @@
-Hi My name is Pratim Roy
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pratim Roy
+==================================================================================================================================
+
 Data Analyst
+------------
+
 I am currently learning Python
 
-🌍  I'm based in Kolkata, West Bengal
-✉️  You can contact me at pratimroy33@gmail.com
-🧠  I'm learning Project Deployments
-⚡  Keen Learner
-
-<!--
-**PratimRoy332/PratimRoy332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Kolkata, West Bengal
+* ✉️  You can contact me at [pratimroy33@gmail.com](mailto:pratimroy33@gmail.com)
+* 🧠  I'm learning Project Deployments
+* ⚡  Keen Learner
